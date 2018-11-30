@@ -1,0 +1,8 @@
+{
+  "name": "serverless-mail",
+  "version": "0.0.1",
+  "author": "Marc.Zaharescu",
+  "dependencies": {
+    "serverless": "^1.33.2"
+  }
+}
